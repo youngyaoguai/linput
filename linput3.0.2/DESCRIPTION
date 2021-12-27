@@ -1,0 +1,10 @@
+Package: linput
+Title: A panel data NAs processing tool
+Description: a NA input function
+Version: 3.0.2
+Author: Yunhan DU <1270950448@qq.com>
+Depends:
+    R (>= 3.0.2)
+License: MIT
+LazyData: true
+RoxygenNote: 7.1.1
